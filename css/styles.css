@@ -1,0 +1,19 @@
+  body {
+    background-color: #D9FCE3;
+  }
+
+  hr {
+    border: none;
+    border-top: 8px dotted #A569BD;
+    width: 7%;
+  }
+  h1 {
+    color: #66BFBF;
+    text-shadow: 2px 2px 4px #FD4105;
+    font-variant: small-caps;
+  }
+  h3 {
+    color: #66BFBF;
+    text-shadow: 2px 2px 4px #FDEA05;
+    font-variant: small-caps;
+  }
